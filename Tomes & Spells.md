@@ -116,8 +116,9 @@
 -   Found: Misr House
 -   Arabic, by Ghalib al-Sabbah, c. 797. Sextodecimo, bound in goatskin with bronze clasp, sulfurous smell.
 -   Heretical work alleged to be the transcript of a series of discussions held by the author with a “djinn,” a being of “scorching fire,” which related all manner of esoteric and forbidden lore. While most of the knowledge contained appears to be fanciful, a few kernels of Mythos knowledge are hidden in the text.
--   Sanity: 1D4, CM: +1/+3, MR: 12, Study: 12 weeks
--   Spells: Enchantment of the Living Flame
+- Sanity: 1D4, CM: +1/+3, MR: 12, Study: 12 weeks
+- Spells: 
+    - Enchantment of the Living Flame
 
 ## The Black Rites of Luveh-Keraphf
 
@@ -173,5 +174,6 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE2NjY4MTkwNDRdfQ==
+4iLCJoaXN0b3J5IjpbMTA1NjU2OTcyOSwtMTY2NjgxOTA0NF19
+
 -->
