@@ -72,7 +72,7 @@
 
 * Found: In the possession of Richard Rich Sharp in Shinkolobwe, Uranium Mine, Belgian Congo
 * English, by Sir Wade Jermyn, 1742-1764. 
-* Sir Wade Jermyn was one of the earliest explorers of the Congo region, and had written eruditely of its tribes, animals, and suppoed antiquities. It also includes passages about his bizarre conjectures on a prehistoric white Congolese civilization. These "White Apes" and their "City of the White Gorilla" is located on Idjwi, an island in Lake Kivu. Sir Wade Jermyn also talks about an extraterrestrial being that these "White Apes" either tried to summon or to awake in the nearby lake. The tome describes rites and magic spells Sir Jermyn learned during his adventures and partly researched himself.
+* Sir Wade Jermyn was one of the earliest explorers of the Congo region, and had written eruditely of its tribes, animals, and suppoed antiquities. It also includes passages about his bizarre conjectures on a prehistoric white Congolese civilization. These "White Apes" and their "City of the White Gorilla" is located on Kwidjwi, an isle in Lake Kivu. Sir Wade Jermyn also talks about an extraterrestrial being that these "White Apes" either tried to summon or to awake in the lake. The tome describes rites and magic spells Sir Jermyn learned during his adventures and partly researched himself.
 * Sanity: 2d4, CM: +4/+8, MR: 36, Study: 24 weeks
 * Spells:
     - Baneful Dust of Hermes Trismegistus
@@ -174,6 +174,7 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgz
-NDA0MjkyMSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbLTE4OTExNDkxNTYsLTQ3MTczMDc4Nywt
+OTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5LC0xNjY2OD
+E5MDQ0XX0=
 -->
