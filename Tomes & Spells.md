@@ -59,7 +59,6 @@
     - Ritual To Tame Night Horror 
     - Old Woman’s Blessing
 
-
 ## Liber Ivonis
 
 -   Found: Penhew Foundation
@@ -182,7 +181,7 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE5MDc3NzM1MDIsLTE4OTExNDkxNTYs
-LTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NT
-Y5NzI5LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwt
+MTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MD
+QyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ==
 -->
