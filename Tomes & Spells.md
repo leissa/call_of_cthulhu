@@ -70,7 +70,7 @@
 
 ## Observations on the Several Parts of Africa 
 
-* Found: In the possession of Richard Rich Sharp in Shinkolobwe, Uranium Mine, Congo
+* Found: In the possession of Richard Rich Sharp in Shinkolobwe, Uranium Mine, Belgian Congo
 * English, by Sir Wade Jermyn, 1742-1764. 
 * Sir Wade Jermyn was one of the earliest explorers of the Congo region, and had written eruditely of its tribes, animals, and suppoed antiquities. It also includes passages about his bizarre conjectures on a prehistoric white Congolese civilisation. Sir Wade Jermyn also talks about an extraterrestrial being that these "White Apes" either tried to summon or to awake in a nearby lake. The tome describes rites and magic spells Sir Jermyn learned during his adventures and partly researched himself.
 * Sanity: 2d4, CM: +4/+8, MR: 36, Study: 24 weeks
@@ -174,6 +174,6 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTA1NjU2OTcyOSwtMTY2NjgxOTA0NF19
-
+4iLCJoaXN0b3J5IjpbODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2
+NjY4MTkwNDRdfQ==
 -->
