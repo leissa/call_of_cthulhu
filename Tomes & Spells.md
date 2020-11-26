@@ -55,9 +55,9 @@
 - Sanity: 2D4, CM: +2/+6, MR: 24, Study: 14 weeks
 - Spells: 
     - Ruination of Evil 
-    * Call Satan’s Eye 
-    * Ritual To Tame Night Horror 
-    * Old Woman’s Blessing
+    - Call Satan’s Eye 
+    - Ritual To Tame Night Horror 
+    - Old Woman’s Blessing
 
 
 ## Liber Ivonis
@@ -182,7 +182,7 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMzU5NTE4NzIzLC0xODkxMTQ5MTU2LC00
+4iLCJoaXN0b3J5IjpbODY1NzgyNTAyLC0xODkxMTQ5MTU2LC00
 NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OT
 cyOSwtMTY2NjgxOTA0NF19
 -->
