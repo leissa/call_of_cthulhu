@@ -49,11 +49,12 @@
 
 -   Found: Penhew Foundation
 -   French, by Ghyslain D’Aramitz, 1807.
--   Octavo, soft calf leather binding, pages untrimmed.The account of a French merchant, colonial administrator, and explorer telling of his experiences traveling around the world, with particular chapters devoted to cataloguing and comparing regional customs and beliefs in Northern Africa, Asia, and Europe. D’Aramitz relishes in describing what appear to be outlandish (possibly fictional) practices concerning farming and hunting; however, these are interspersed with dramatic and chilling folk customs that have the ring of authenticity. A number of apparent medieval rituals, stemming from the south of France, are shown to have dark and murderous origins. 
+-   Octavo, soft calf leather binding, pages untrimmed.
+-  The account of a French merchant, colonial administrator, and explorer telling of his experiences traveling around the world, with particular chapters devoted to cataloguing and comparing regional customs and beliefs in Northern Africa, Asia, and Europe. D’Aramitz relishes in describing what appear to be outlandish (possibly fictional) practices concerning farming and hunting; however, these are interspersed with dramatic and chilling folk customs that have the ring of authenticity. A number of apparent medieval rituals, stemming from the south of France, are shown to have dark and murderous origins. 
 - There are numerous mentions of god- like entities and avatars:“Witch Maker,” “Bloody Tongue,” and “Three-Eyed Shadow”. Of particular relevance is a description of a mark cut into the skin of enemies of the Bloody Tongue (the same as seen on Jackson Elias’ forehead). Additionally, a passage details an excursion to find the “Black Mountain where the Bloody Tongue dwells” in “Kirinyaga”, where D’Aramitz claims to have seen unholy rites.
-* Sanity: 2D4, CM: +2/+6, MR: 24, Study: 14 weeks
-* Spells: 
-    * Ruination of Evil 
+- Sanity: 2D4, CM: +2/+6, MR: 24, Study: 14 weeks
+- Spells: 
+    - Ruination of Evil 
     * Call Satan’s Eye 
     * Ritual To Tame Night Horror 
     * Old Woman’s Blessing
@@ -181,7 +182,7 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTMyNDMxNzc3OSwtMTg5MTE0OTE1Niwt
-NDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIxLDEwNTY1Nj
-k3MjksLTE2NjY4MTkwNDRdfQ==
+4iLCJoaXN0b3J5IjpbMzU5NTE4NzIzLC0xODkxMTQ5MTU2LC00
+NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OT
+cyOSwtMTY2NjgxOTA0NF19
 -->
