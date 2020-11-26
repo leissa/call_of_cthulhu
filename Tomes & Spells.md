@@ -51,7 +51,7 @@
 -   French, by Ghyslain D’Aramitz, 1807.
 -   Octavo, soft calf leather binding, pages untrimmed.
 -  The account of a French merchant, colonial administrator, and explorer telling of his experiences traveling around the world, with particular chapters devoted to cataloguing and comparing regional customs and beliefs in Northern Africa, Asia, and Europe. D’Aramitz relishes in describing what appear to be outlandish (possibly fictional) practices concerning farming and hunting; however, these are interspersed with dramatic and chilling folk customs that have the ring of authenticity. A number of apparent medieval rituals, stemming from the south of France, are shown to have dark and murderous origins. 
-- There are numerous mentions of god- like entities and avatars:“Witch Maker,” “Bloody Tongue,” and “Three-Eyed Shadow”. Of particular relevance is a description of a mark cut into the skin of enemies of the Bloody Tongue (the same as seen on Jackson Elias’ forehead). Additionally, a passage details an excursion to find the “Black Mountain where the Bloody Tongue dwells” in “Kirinyaga”, where D’Aramitz claims to have seen unholy rites.
+- There are numerous mentions of god- like entities and avatars: “Witch Maker,” “Bloody Tongue,” and “Three-Eyed Shadow”. Of particular relevance is a description of a mark cut into the skin of enemies of the Bloody Tongue (the same as seen on Jackson Elias’ forehead). Additionally, a passage details an excursion to find the “Black Mountain where the Bloody Tongue dwells” in “Kirinyaga”, where D’Aramitz claims to have seen unholy rites.
 - Sanity: 2D4, CM: +2/+6, MR: 24, Study: 14 weeks
 - Spells: 
     - Ruination of Evil 
@@ -182,7 +182,7 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbODY1NzgyNTAyLC0xODkxMTQ5MTU2LC00
-NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OT
-cyOSwtMTY2NjgxOTA0NF19
+4iLCJoaXN0b3J5IjpbLTE5MDc3NzM1MDIsLTE4OTExNDkxNTYs
+LTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NT
+Y5NzI5LC0xNjY2ODE5MDQ0XX0=
 -->
