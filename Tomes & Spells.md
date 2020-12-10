@@ -172,8 +172,8 @@
  # Spells
  ## Baneful Dust of Hermes Trismegistus
 
-* Cost: 4 magic points
-* Casting time: 24 hours (1 round to use)
+* **Cost:** 4 magic points
+* **Casting time:** 24 hours (1 round to use)
 
 This spell only affects creatures of non-terrestrial origin (that excludes humans, deep ones, ghouls, sand dwellers, serpent people, etc., but not flying polyps, elder things, mi-go, or star- spawn of Cthulhu, and so on). 
 
@@ -194,8 +194,8 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5
-MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MTczMDc4NywtOTY4MD
-QyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0
-XX0=
+4iLCJoaXN0b3J5IjpbLTEwODgyNjc5MjUsLTgyNDc5MzE3LDE3
+OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MT
+czMDc4NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5
+LC0xNjY2ODE5MDQ0XX0=
 -->
