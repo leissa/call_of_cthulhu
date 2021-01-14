@@ -66,13 +66,6 @@
 -   Quarto, bound in calfskin with iron clasp, black-edged papers, musty smell. Many pages missing or spoiled.
 -   ???
 
-## Livre d’Ivon
-
-* Found: Ho Fang Mansion
-* French, translated by Gaspard du Nord, c. 13th century.
-* Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather).
-* ???
-
 ## Life As A God
 
 -   Found: Carlyle Library
@@ -81,6 +74,12 @@
 -   Sanity: 1d6, CM: +2/+4, MR: 18, Study: 10 week
 -   see handout
 
+## Livre d’Ivon
+
+* Found: Ho Fang Mansion
+* French, translated by Gaspard du Nord, c. 13th century.
+* Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather).
+* ???
 
 ## Observations on the Several Parts of Africa 
 
@@ -155,7 +154,8 @@
     -   Curse
     -   Finger of Pain
     -   Go Beyond
-    ## The Goddess of the Black Fan
+
+## The Goddess of the Black Fan
 
 * Found: Ho Fang Mansion
 * Classical Chinese, by Liu Chanfang, date unknown.
@@ -228,7 +228,7 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTU1MDU1MzEzNCwtMTA4ODI2NzkyNSwt
+4iLCJoaXN0b3J5IjpbLTIyNDIxMTI1OCwtMTA4ODI2NzkyNSwt
 ODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MT
 E0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIx
 LDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ==
