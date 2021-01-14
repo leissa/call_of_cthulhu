@@ -98,42 +98,6 @@
     - The Insidious Nightmare
     - Ye Terrible Cloud
 
-## The Goddess of the Black Fan
-
-* Found: Ho Fang Mansion
-* Classical Chinese, by Liu Chanfang, date unknown.
-* Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations.
-* ???
-
-## The Necronomicon
-
-* Found: Ho Fang Mansion
-* Latin, translated by Olaus Wormius, 1228.
-* Spanish black letter folio, 17th century, bound in oxblood-colored leather and secured by ornate clasps set with a variety of semi-precious stones.
-* ???
-
-## The Pnakotic Manuscripts
-
--   Found: Carlyle Library
--   English, author and translator unknown, 15th century.
--   Quarto, embossed red leather binding of a later date than the contained manuscript.
--   Sanity: 1d8, CM: +3/+7, MR: 30, Study: 45 weeks
--   Spells:
-    -   Contact Winged One
-    -   Contact Mind of the Observer
-
-## The Tale of Priest Kwan
-
-* Found: Ho Fang Mansion
-* Classical Chinese, author unknown, date unknown.
-* Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet.
-* ???
-
-## True Magick
-
-* English, by Theophilus Wenn, 17th century.
-* Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols.
-* ???
 
 ## Sélections de Livre D’Ivon
 
@@ -191,7 +155,44 @@
     -   Curse
     -   Finger of Pain
     -   Go Beyond
-    
+    ## The Goddess of the Black Fan
+
+* Found: Ho Fang Mansion
+* Classical Chinese, by Liu Chanfang, date unknown.
+* Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations.
+* ???
+
+## The Necronomicon
+
+* Found: Ho Fang Mansion
+* Latin, translated by Olaus Wormius, 1228.
+* Spanish black letter folio, 17th century, bound in oxblood-colored leather and secured by ornate clasps set with a variety of semi-precious stones.
+* ???
+
+## The Pnakotic Manuscripts
+
+-   Found: Carlyle Library
+-   English, author and translator unknown, 15th century.
+-   Quarto, embossed red leather binding of a later date than the contained manuscript.
+-   Sanity: 1d8, CM: +3/+7, MR: 30, Study: 45 weeks
+-   Spells:
+    -   Contact Winged One
+    -   Contact Mind of the Observer
+
+## The Tale of Priest Kwan
+
+* Found: Ho Fang Mansion
+* Classical Chinese, author unknown, date unknown.
+* Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet.
+* ???
+
+## True Magick
+
+* English, by Theophilus Wenn, 17th century.
+* Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols.
+* ???
+
+
 # Scrolls
 
 -   Found: Penhew Foundation
@@ -227,8 +228,8 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE2NzI3ODE5MjQsLTEwODgyNjc5MjUs
-LTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OT
-ExNDkxNTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0Mjky
-MSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbMTU1MDU1MzEzNCwtMTA4ODI2NzkyNSwt
+ODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MT
+E0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIx
+LDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ==
 -->
