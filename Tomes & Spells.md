@@ -66,6 +66,13 @@
 -   Quarto, bound in calfskin with iron clasp, black-edged papers, musty smell. Many pages missing or spoiled.
 -   ???
 
+## Livre d’Ivon
+
+* Found: Ho Fang Mansion
+* French, translated by Gaspard du Nord, c. 13th century.
+* Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather).
+* ???
+
 ## Life As A God
 
 -   Found: Carlyle Library
@@ -90,6 +97,20 @@
     - Shackle Fiend from the Stars
     - The Insidious Nightmare
     - Ye Terrible Cloud
+
+## The Goddess of the Black Fan
+
+* Found: Ho Fang Mansion
+* Classical Chinese, by Liu Chanfang, date unknown.
+* Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations.
+* ???
+
+## The Necronomicon
+
+* Found: Ho Fang Mansion
+* Latin, translated by Olaus Wormius, 1228.
+* Spanish black letter folio, 17th century, bound in oxblood-colored leather and secured by ornate clasps set with a variety of semi-precious stones.
+* ???
 
 ## The Pnakotic Manuscripts
 
@@ -194,8 +215,8 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTEwODgyNjc5MjUsLTgyNDc5MzE3LDE3
-OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MT
-czMDc4NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5
-LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbMTkwMjcwMzU4LC0xMDg4MjY3OTI1LC04
+MjQ3OTMxNywxNzk2MjE0OTMyLC0xOTA3NzczNTAyLC0xODkxMT
+Q5MTU2LC00NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEs
+MTA1NjU2OTcyOSwtMTY2NjgxOTA0NF19
 -->
