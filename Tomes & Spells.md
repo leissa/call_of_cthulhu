@@ -122,6 +122,18 @@
     -   Contact Winged One
     -   Contact Mind of the Observer
 
+## The Tale of Priest Kwan
+
+* Found: Ho Fang Mansion
+* Classical Chinese, author unknown, date unknown.
+* Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet.
+* ???
+
+## True Magick
+
+* English, by Theophilus Wenn, 17th century.
+* Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols.
+* ???
 
 ## Sélections de Livre D’Ivon
 
@@ -215,8 +227,8 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTkwMjcwMzU4LC0xMDg4MjY3OTI1LC04
-MjQ3OTMxNywxNzk2MjE0OTMyLC0xOTA3NzczNTAyLC0xODkxMT
-Q5MTU2LC00NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEs
-MTA1NjU2OTcyOSwtMTY2NjgxOTA0NF19
+4iLCJoaXN0b3J5IjpbLTE2NzI3ODE5MjQsLTEwODgyNjc5MjUs
+LTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OT
+ExNDkxNTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0Mjky
+MSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
 -->
