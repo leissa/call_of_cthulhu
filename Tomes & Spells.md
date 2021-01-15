@@ -97,7 +97,6 @@
     - The Insidious Nightmare
     - Ye Terrible Cloud
 
-
 ## Sélections de Livre D’Ivon
 
 -   Found: Carlyle Library
@@ -186,6 +185,12 @@
 * Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet.
 * ???
 
+## The Scrolls of the White Apes
+
+* Found: City of the White Gorilla
+* A strange language, distantly similar to Swahili.
+* ???
+
 ## True Magick
 
 * English, by Theophilus Wenn, 17th century.
@@ -228,8 +233,9 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTIyNDIxMTI1OCwtMTA4ODI2NzkyNSwt
-ODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MT
-E0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIx
-LDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ==
+4iLCJoaXN0b3J5IjpbLTE3MjQ5MDEzMjIsLTIyNDIxMTI1OCwt
+MTA4ODI2NzkyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNz
+c3MzUwMiwtMTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0
+NjcsODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ
+==
 -->
