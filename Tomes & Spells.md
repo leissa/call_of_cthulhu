@@ -178,6 +178,24 @@
     -   Contact Winged One
     -   Contact Mind of the Observer
 
+## The Seven Cryptical Books of Hsan
+
+* Classical Chinese, written by Hsan the Greater, c. 2nd century.
+* A single, large classical Chinese scroll organized into seven books, handwritten and kept in a fitted scroll case bearing an arcane sign.
+* Sanity: 1d8, CM: +3/+8, MR: 33, Study: 40 weeks
+* Spells:
+    * Call Down Spirit
+    * Contact Ghoul
+    * Contact Hound of Tindalos
+    * Contact Mi-Go
+    * Contact Nyarlathotep,
+    * Door to Kadath
+    * Elder Sign
+    * Eye of Light and Darkness
+    * Find Gate
+    * Restore Life
+
+
 ## The Tale of Priest Kwan
 
 * Found: Ho Fang Mansion
@@ -233,9 +251,9 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE3MjQ5MDEzMjIsLTIyNDIxMTI1OCwt
-MTA4ODI2NzkyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNz
-c3MzUwMiwtMTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0
-NjcsODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ
-==
+4iLCJoaXN0b3J5IjpbMzA1NzI2NTI4LC0xNzI0OTAxMzIyLC0y
+MjQyMTEyNTgsLTEwODgyNjc5MjUsLTgyNDc5MzE3LDE3OTYyMT
+Q5MzIsLTE5MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MTczMDc4
+NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5LC0xNj
+Y2ODE5MDQ0XX0=
 -->
