@@ -223,7 +223,14 @@
 
 * English, by Theophilus Wenn, 17th century.
 * Octavo, recently rebound in fine red Chinese silks depicting various Mythos creatures and symbols.
-* ???
+* Largely concerned with the nature and habits of what scholars of the period perceived of as "demonic creatures". Wenn’s manuscript also contains a number of protective charms, as well as other incantations designed to inconvenience one’s rivals. It also discusses Wenn’s own peculiar interpretation of the different schools of magic (black, white, etc.).
+* Sanity: 1d8, CM: +2/+4, MR: 18, Study: 24 weeks
+* Spells:
+    * Call Forth the One
+    * Call Forth the Winged One
+    * Call for Spirit of the Air
+    * Create Charm
+    * Speak with the Dark One
 
 
 # Scrolls
@@ -267,7 +274,7 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTk5OTQ2MzgyNSwzMDU3MjY1MjgsLTE3
+4iLCJoaXN0b3J5IjpbMTkwNjAyMDUxMCwzMDU3MjY1MjgsLTE3
 MjQ5MDEzMjIsLTIyNDIxMTI1OCwtMTA4ODI2NzkyNSwtODI0Nz
 kzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MTE0OTE1
 NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIxLDEwNT
