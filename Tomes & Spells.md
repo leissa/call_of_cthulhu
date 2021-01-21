@@ -74,12 +74,25 @@
 -   Sanity: 1d6, CM: +2/+4, MR: 18, Study: 10 week
 -   see handout
 
+
 ## Livre d’Ivon
 
 * Found: Ho Fang Mansion
 * French, translated by Gaspard du Nord, c. 13th century.
 * Quarto, handwritten manuscript, bound in royal blue shagreen (stingray leather).
-* ???
+* Sanity: 2d4, CM: +4/+8, MR: 36, Study: 36 weeks
+* Spells:
+    * Call/Dismiss Azathoth
+    * Contact Formless Spawn of Zhothaqquah
+    * Contact Kthulhut
+    * Contact Yok Zothoth
+    * Contact Zhothaqquah
+    * Create Barrier of Naach-Tith
+    * Create Mist of R’lyeh
+    * Enchant Knife
+    * Gate
+    * Voorish Sign
+    * Wither Limb
 
 ## Observations on the Several Parts of Africa 
 
@@ -288,9 +301,9 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTIwMzU4Nzg4MSw2ODk3NjA5NTQsMzA1
-NzI2NTI4LC0xNzI0OTAxMzIyLC0yMjQyMTEyNTgsLTEwODgyNj
-c5MjUsLTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIs
-LTE4OTExNDkxNTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzND
-A0MjkyMSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbNDY5OTgxODc1LDY4OTc2MDk1NCwzMDU3
+MjY1MjgsLTE3MjQ5MDEzMjIsLTIyNDIxMTI1OCwtMTA4ODI2Nz
+kyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwt
+MTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MD
+QyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ==
 -->
