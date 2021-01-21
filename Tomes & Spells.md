@@ -207,7 +207,7 @@
 * Sanity: 1d6, CM: +1/+4, MR: 15, Study: 6 weeks
 * Spells:
     * Call the Black Sphinx
-    * Grasp of Cthulhu*
+    * Grasp of Cthulhu
     * Power Drain
     * Shrivelling
     * Steal Life
@@ -261,9 +261,9 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTU1Nzg2MDExNiwzMDU3MjY1MjgsLTE3
-MjQ5MDEzMjIsLTIyNDIxMTI1OCwtMTA4ODI2NzkyNSwtODI0Nz
-kzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MTE0OTE1
-NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIxLDEwNT
-Y1Njk3MjksLTE2NjY4MTkwNDRdfQ==
+4iLCJoaXN0b3J5IjpbLTEzMjMyMDE0NTgsMzA1NzI2NTI4LC0x
+NzI0OTAxMzIyLC0yMjQyMTEyNTgsLTEwODgyNjc5MjUsLTgyND
+c5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OTExNDkx
+NTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMD
+U2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
 -->
