@@ -265,6 +265,7 @@ The barrier provides both a physical and magical defense. Each participant in th
 The barrier is spherical in shape and about 100 yards in diameter. It can be cast around the casters to protect from harm or it can be cast to encompass a monster or enemy. Any creature bisected by the barrier’s boundary upon its creation is unharmed and thrust outside the barrier. Anything trapped should be allowed a STR roll opposed by the STR of the barrier. Multiple entrapped victims cannot combine their STR to escape. A bullet or missile can cross the barrier if the rolled damage (ignore impales) to the barrier is greater than a fifth of the barrier’s STR. If penetrating the barrier, the object does the damage rolled, as if the barrier did not exist, and the barrier is destroyed.
 
 ## Go Beyond
+
 * **Cost:** 15 magic points; 1 Sanity point
 * **Casting time:** 1 day
 
@@ -275,7 +276,7 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbOTcyMjk4NTA4LDMwNTcyNjUyOCwtMTcy
+4iLCJoaXN0b3J5IjpbNjg5NzYwOTU0LDMwNTcyNjUyOCwtMTcy
 NDkwMTMyMiwtMjI0MjExMjU4LC0xMDg4MjY3OTI1LC04MjQ3OT
 MxNywxNzk2MjE0OTMyLC0xOTA3NzczNTAyLC0xODkxMTQ5MTU2
 LC00NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1Nj
