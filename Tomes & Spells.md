@@ -201,7 +201,17 @@
 * Found: Ho Fang Mansion
 * Classical Chinese, author unknown, date unknown.
 * Scroll, woodblock printed on mulberry, hemp, and rag paper, stored in a hollowed-out piece of bamboo adorned with faded yellow velvet.
-* ???
+* This homily tells how, with pure faith, a priest of the Order of the Bloated Woman overcame and humbled a powerful noble.
+* The spells contained in the book are mostly in the form of poems, with some written in the accompanying annotations.
+* The scroll graphically describes rituals of the Order of the Bloated Woman, and mentions a powerful aide to the priest, a friend called the Great Faced Lion.
+* Sanity: 1d6, CM: +1/+4, MR: 15, Study: 6 weeks
+* Spells:
+    * Call the Black Sphinx
+    * Grasp of Cthulhu*
+    * Power Drain
+    * Shrivelling
+    * Steal Life
+
 
 ## The Scrolls of the White Apes
 
@@ -251,9 +261,9 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMzA1NzI2NTI4LC0xNzI0OTAxMzIyLC0y
-MjQyMTEyNTgsLTEwODgyNjc5MjUsLTgyNDc5MzE3LDE3OTYyMT
-Q5MzIsLTE5MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MTczMDc4
-NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5LC0xNj
-Y2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbMTU1Nzg2MDExNiwzMDU3MjY1MjgsLTE3
+MjQ5MDEzMjIsLTIyNDIxMTI1OCwtMTA4ODI2NzkyNSwtODI0Nz
+kzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MTE0OTE1
+NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIxLDEwNT
+Y1Njk3MjksLTE2NjY4MTkwNDRdfQ==
 -->
