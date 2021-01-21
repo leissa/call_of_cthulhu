@@ -217,7 +217,15 @@
 
 * Found: City of the White Gorilla
 * A strange language, distantly similar to Swahili.
-* ???
+* They describe Nyarlathop’s aspect of Ahtu but do not mention the name Nyarlatotep or other aspects of the god. Some parts of the scroll have just recently been written and confirm that the White Apes finally managed to summon the “Demon”. Ahtu demanded them to do this because by the beginning of the next “human’s year”, Ahtu will need this “Demon” to “open the Gate”.
+* Sanity: 1D6, CM: +2/+4, MR: 18, Study: 12 weeks
+* Spells:
+    - Cometh forth, ye Brothers and Sisters of R’lyeh  
+    - Pact of Ahtu (Contact Nyarlathotep - Ahtu aspect)
+    - Shackle Fiend from the Stars (Bind Star-Spawn)
+    - Ye Loathsome Tickle (Clutch of Nyogtha)
+    - Ye Terrible Cloud (Create Mist of R’leyh)
+
 
 ## True Magick
 
@@ -276,9 +284,9 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbNjg5NzYwOTU0LDMwNTcyNjUyOCwtMTcy
-NDkwMTMyMiwtMjI0MjExMjU4LC0xMDg4MjY3OTI1LC04MjQ3OT
-MxNywxNzk2MjE0OTMyLC0xOTA3NzczNTAyLC0xODkxMTQ5MTU2
-LC00NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1Nj
-U2OTcyOSwtMTY2NjgxOTA0NF19
+4iLCJoaXN0b3J5IjpbLTE0MTA3NzMzMzUsNjg5NzYwOTU0LDMw
+NTcyNjUyOCwtMTcyNDkwMTMyMiwtMjI0MjExMjU4LC0xMDg4Mj
+Y3OTI1LC04MjQ3OTMxNywxNzk2MjE0OTMyLC0xOTA3NzczNTAy
+LC0xODkxMTQ5MTU2LC00NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4Mz
+QwNDI5MjEsMTA1NjU2OTcyOSwtMTY2NjgxOTA0NF19
 -->
