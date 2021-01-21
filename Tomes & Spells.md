@@ -154,12 +154,16 @@
     -   Finger of Pain
     -   Go Beyond
 
+
 ## The Goddess of the Black Fan
 
 * Found: Ho Fang Mansion
 * Classical Chinese, by Liu Chanfang, date unknown.
 * Single scroll, parchment, stored in a carved ivory scroll case with silver filigree decorations.
-* ???
+* The poems contained on this scroll tell how the monk Liu meets a goddess who hides her face behind a black fan. The goddess seduces the author, telling Liu her true name and how to call her from behind the fan. He follows her bidding, and is struck with horror when he sees the Bloated Woman. Losing all reason, he writes a last poem in his own blood after gutting himself with a sickle.
+* Sanity: 1d4, CM: +1/+4, MR: 15, Study: 2 weeks
+* Spells:
+    * Come, Mistress of the Fan
 
 ## The Necronomicon
 
@@ -284,9 +288,9 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE0MTA3NzMzMzUsNjg5NzYwOTU0LDMw
-NTcyNjUyOCwtMTcyNDkwMTMyMiwtMjI0MjExMjU4LC0xMDg4Mj
-Y3OTI1LC04MjQ3OTMxNywxNzk2MjE0OTMyLC0xOTA3NzczNTAy
-LC0xODkxMTQ5MTU2LC00NzE3MzA3ODcsLTk2ODA0MjQ2Nyw4Mz
-QwNDI5MjEsMTA1NjU2OTcyOSwtMTY2NjgxOTA0NF19
+4iLCJoaXN0b3J5IjpbLTIwMzU4Nzg4MSw2ODk3NjA5NTQsMzA1
+NzI2NTI4LC0xNzI0OTAxMzIyLC0yMjQyMTEyNTgsLTEwODgyNj
+c5MjUsLTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIs
+LTE4OTExNDkxNTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzND
+A0MjkyMSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
 -->
