@@ -257,13 +257,19 @@ The barrier provides both a physical and magical defense. Each participant in th
 
 The barrier is spherical in shape and about 100 yards in diameter. It can be cast around the casters to protect from harm or it can be cast to encompass a monster or enemy. Any creature bisected by the barrier’s boundary upon its creation is unharmed and thrust outside the barrier. Anything trapped should be allowed a STR roll opposed by the STR of the barrier. Multiple entrapped victims cannot combine their STR to escape. A bullet or missile can cross the barrier if the rolled damage (ignore impales) to the barrier is greater than a fifth of the barrier’s STR. If penetrating the barrier, the object does the damage rolled, as if the barrier did not exist, and the barrier is destroyed.
 
+## Go Beyond
+* Cost: 15 magic points; 1 Sanity point
+* Casting time: 1 day
+A long ritual whereby the caster chants or performs some other ritualized repetition to enter a trance state (an altered state of consciousness). Once the altered state has been achieved, the caster is able to send their “spirit” to another plane of existence; which plane may be determined by the caster (if they know of and comprehend its existence), or could be random—conceivably, even, to the location of a Mythos deity or perhaps the Dreamlands. The trance lasts 1D6+3 hours. Depending on where the caster’s spirit travels and what it sees, Sanity losses (possibly quite high) are likely.
+
+
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTEzMjMyMDE0NTgsMzA1NzI2NTI4LC0x
-NzI0OTAxMzIyLC0yMjQyMTEyNTgsLTEwODgyNjc5MjUsLTgyND
-c5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OTExNDkx
-NTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0MjkyMSwxMD
-U2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbLTk5OTQ2MzgyNSwzMDU3MjY1MjgsLTE3
+MjQ5MDEzMjIsLTIyNDIxMTI1OCwtMTA4ODI2NzkyNSwtODI0Nz
+kzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwtMTg5MTE0OTE1
+NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MDQyOTIxLDEwNT
+Y1Njk3MjksLTE2NjY4MTkwNDRdfQ==
 -->
