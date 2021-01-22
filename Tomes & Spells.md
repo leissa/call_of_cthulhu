@@ -238,10 +238,10 @@
 * Sanity: 1D6, CM: +2/+4, MR: 18, Study: 12 weeks
 * Spells:
     - Cometh forth, ye Brothers and Sisters of R’lyeh  
-    - Pact of Ahtu (Contact Nyarlathotep - Ahtu aspect)
-    - Shackle Fiend from the Stars (Bind Star-Spawn)
-    - Ye Loathsome Tickle (Clutch of Nyogtha)
-    - Ye Terrible Cloud (Create Mist of R’leyh)
+    - Pact of Ahtu
+    - Shackle Fiend from the Stars
+    - Ye Loathsome Tickle
+    - Ye Terrible Cloud
 
 
 ## True Magick
@@ -301,9 +301,10 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbNDY5OTgxODc1LDY4OTc2MDk1NCwzMDU3
-MjY1MjgsLTE3MjQ5MDEzMjIsLTIyNDIxMTI1OCwtMTA4ODI2Nz
-kyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNzc3MzUwMiwt
-MTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0NjcsODM0MD
-QyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ==
+4iLCJoaXN0b3J5IjpbMTI2NzIxNjAyMyw0Njk5ODE4NzUsNjg5
+NzYwOTU0LDMwNTcyNjUyOCwtMTcyNDkwMTMyMiwtMjI0MjExMj
+U4LC0xMDg4MjY3OTI1LC04MjQ3OTMxNywxNzk2MjE0OTMyLC0x
+OTA3NzczNTAyLC0xODkxMTQ5MTU2LC00NzE3MzA3ODcsLTk2OD
+A0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OTcyOSwtMTY2NjgxOTA0
+NF19
 -->
