@@ -198,6 +198,7 @@
 
 * Found: Stolen by Jack Brady from Lin Yenyu
 * Classical Chinese, written by Hsan the Greater, c. 2nd century.
+* Translated to English by Mu Husien, 1925
 * A single, large classical Chinese scroll organized into seven books, handwritten and kept in a fitted scroll case bearing an arcane sign.
 * Sanity: 1d8, CM: +3/+8, MR: 33, Study: 40 weeks
 * Spells:
@@ -300,10 +301,10 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbNzI5Mjk3MzIxLDQ2OTk4MTg3NSw2ODk3
-NjA5NTQsMzA1NzI2NTI4LC0xNzI0OTAxMzIyLC0yMjQyMTEyNT
-gsLTEwODgyNjc5MjUsLTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5
-MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MTczMDc4NywtOTY4MD
-QyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0
-XX0=
+4iLCJoaXN0b3J5IjpbLTE3MDU2Njk1MDgsNDY5OTgxODc1LDY4
+OTc2MDk1NCwzMDU3MjY1MjgsLTE3MjQ5MDEzMjIsLTIyNDIxMT
+I1OCwtMTA4ODI2NzkyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwt
+MTkwNzc3MzUwMiwtMTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05Nj
+gwNDI0NjcsODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkw
+NDRdfQ==
 -->
