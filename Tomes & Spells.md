@@ -205,7 +205,7 @@
     * Contact Ghoul
     * Contact Hound of Tindalos
     * Contact Mi-Go
-    * Contact Nyarlathotep,
+    * Contact Nyarlathotep
     * Door to Kadath
     * Elder Sign
     * Eye of Light and Darkness
@@ -301,7 +301,7 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTI2NzIxNjAyMyw0Njk5ODE4NzUsNjg5
+4iLCJoaXN0b3J5IjpbLTg3ODM2MzY3NSw0Njk5ODE4NzUsNjg5
 NzYwOTU0LDMwNTcyNjUyOCwtMTcyNDkwMTMyMiwtMjI0MjExMj
 U4LC0xMDg4MjY3OTI1LC04MjQ3OTMxNywxNzk2MjE0OTMyLC0x
 OTA3NzczNTAyLC0xODkxMTQ5MTU2LC00NzE3MzA3ODcsLTk2OD
