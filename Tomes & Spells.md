@@ -167,7 +167,6 @@
     -   Finger of Pain
     -   Go Beyond
 
-
 ## The Goddess of the Black Fan
 
 * Found: Ho Fang Mansion
@@ -197,6 +196,7 @@
 
 ## The Seven Cryptical Books of Hsan
 
+* Found: Stolen by Jack Brady from Lin Yenyu
 * Classical Chinese, written by Hsan the Greater, c. 2nd century.
 * A single, large classical Chinese scroll organized into seven books, handwritten and kept in a fitted scroll case bearing an arcane sign.
 * Sanity: 1d8, CM: +3/+8, MR: 33, Study: 40 weeks
@@ -211,7 +211,6 @@
     * Eye of Light and Darkness
     * Find Gate
     * Restore Life
-
 
 ## The Tale of Priest Kwan
 
@@ -301,10 +300,10 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTg3ODM2MzY3NSw0Njk5ODE4NzUsNjg5
-NzYwOTU0LDMwNTcyNjUyOCwtMTcyNDkwMTMyMiwtMjI0MjExMj
-U4LC0xMDg4MjY3OTI1LC04MjQ3OTMxNywxNzk2MjE0OTMyLC0x
-OTA3NzczNTAyLC0xODkxMTQ5MTU2LC00NzE3MzA3ODcsLTk2OD
-A0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OTcyOSwtMTY2NjgxOTA0
-NF19
+4iLCJoaXN0b3J5IjpbNzI5Mjk3MzIxLDQ2OTk4MTg3NSw2ODk3
+NjA5NTQsMzA1NzI2NTI4LC0xNzI0OTAxMzIyLC0yMjQyMTEyNT
+gsLTEwODgyNjc5MjUsLTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5
+MDc3NzM1MDIsLTE4OTExNDkxNTYsLTQ3MTczMDc4NywtOTY4MD
+QyNDY3LDgzNDA0MjkyMSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0
+XX0=
 -->
