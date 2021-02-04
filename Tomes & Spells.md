@@ -296,15 +296,27 @@ The barrier is spherical in shape and about 100 yards in diameter. It can be cas
 
 A long ritual whereby the caster chants or performs some other ritualized repetition to enter a trance state (an altered state of consciousness). Once the altered state has been achieved, the caster is able to send their “spirit” to another plane of existence; which plane may be determined by the caster (if they know of and comprehend its existence), or could be random—conceivably, even, to the location of a Mythos deity or perhaps the Dreamlands. The trance lasts 1D6+3 hours. Depending on where the caster’s spirit travels and what it sees, Sanity losses (possibly quite high) are likely.
 
+## Restore Life
+
+* Cost: 3 magic points; 1D10 Sanity points
+* Casting time: 1 or 2 rounds
+
+The spell reduces a corpse to its essential salts and compounds, a bluish-grey powder, or reverses the process to yield ultimately the form and soul of the deceased. A complete corpse is necessary.
+
+Being Resurrected in this manner costs the victim 1D20 Sanity points.
+
+If only part of the ashy powder is available for the spell, the sorcerer gets “onlie the liveliest awfullness” from what’s then made flesh. But the successfully resurrected need not be all in one piece—as long as the coffin is intact and sufficient care is taken to scrape together all the fragments and dust within, the spell succeeds.
+
+Reciting the spell backward returns the resurrected entity to dust and likewise requires the expenditure of 3 magic points and 1D10 Sanity points. The dust can be retained or thrown away. For the spell to take effect the caster must succeed in an opposed POW roll with the target. If the caster wins, the victim returns to dust. If the victim wins, it may try to prevent the caster from reciting the spell again. Reciting the spell backward takes two rounds. In The Case of Charles Dexter Ward, many of those resurrected were interrogated and tortured to reveal secrets of the past.
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE3MDU2Njk1MDgsNDY5OTgxODc1LDY4
-OTc2MDk1NCwzMDU3MjY1MjgsLTE3MjQ5MDEzMjIsLTIyNDIxMT
-I1OCwtMTA4ODI2NzkyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwt
-MTkwNzc3MzUwMiwtMTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05Nj
-gwNDI0NjcsODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkw
-NDRdfQ==
+4iLCJoaXN0b3J5IjpbMTY1ODE1MjAxNSwtMTcwNTY2OTUwOCw0
+Njk5ODE4NzUsNjg5NzYwOTU0LDMwNTcyNjUyOCwtMTcyNDkwMT
+MyMiwtMjI0MjExMjU4LC0xMDg4MjY3OTI1LC04MjQ3OTMxNywx
+Nzk2MjE0OTMyLC0xOTA3NzczNTAyLC0xODkxMTQ5MTU2LC00Nz
+E3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OTcy
+OSwtMTY2NjgxOTA0NF19
 -->
