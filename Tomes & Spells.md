@@ -309,10 +309,16 @@ If only part of the ashy powder is available for the spell, the sorcerer gets �
 
 Reciting the spell backward returns the resurrected entity to dust and likewise requires the expenditure of 3 magic points and 1D10 Sanity points. The dust can be retained or thrown away. For the spell to take effect the caster must succeed in an opposed POW roll with the target. If the caster wins, the victim returns to dust. If the victim wins, it may try to prevent the caster from reciting the spell again. Reciting the spell backward takes two rounds. In The Case of Charles Dexter Ward, many of those resurrected were interrogated and tortured to reveal secrets of the past.
 
+## Shrivelling
+* **Cost:** Variable magic points; Variable Sanity points
+* **Casting time:** Instantaneous
+A powerful offensive spell causing physical injury to a target. The caster invests as many magic points as desired and that number halved in Sanity points. For the spell to take effect the caster must succeed in an opposed POW roll with the target. If successful, the target is subjected to a sudden and terrifying blast of energy, causing flesh to blacken and wither. The target loses 1 hit point per magic point invested in the spell.
+
+
 ## Ye Terrible Cloud
 
-* Cost: 2 magic points
-* Casting time: Instantaneous
+* **Cost:** 2 magic points
+* **Casting time:** Instantaneous
 
 The spell causes a dense mist to appear in an egg-shaped volume (10 × 10 × 15 feet), directly in front of the caster. The long axis of the cloud is always at right angles to the direction in which the caster faces. The spell obscures vision for 1D6+4 game rounds and then evaporates without trace.
 
@@ -321,10 +327,11 @@ The spell causes a dense mist to appear in an egg-shaped volume (10 × 10 × 15 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTExNTk2OTIxMywxNjU4MTUyMDE1LC0x
-NzA1NjY5NTA4LDQ2OTk4MTg3NSw2ODk3NjA5NTQsMzA1NzI2NT
-I4LC0xNzI0OTAxMzIyLC0yMjQyMTEyNTgsLTEwODgyNjc5MjUs
-LTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OT
-ExNDkxNTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0Mjky
-MSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
+4iLCJoaXN0b3J5IjpbLTE3NzQ4OTA4NCwxMTE1OTY5MjEzLDE2
+NTgxNTIwMTUsLTE3MDU2Njk1MDgsNDY5OTgxODc1LDY4OTc2MD
+k1NCwzMDU3MjY1MjgsLTE3MjQ5MDEzMjIsLTIyNDIxMTI1OCwt
+MTA4ODI2NzkyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNz
+c3MzUwMiwtMTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0
+NjcsODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ
+==
 -->
