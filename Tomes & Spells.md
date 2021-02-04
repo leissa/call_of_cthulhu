@@ -309,14 +309,22 @@ If only part of the ashy powder is available for the spell, the sorcerer gets �
 
 Reciting the spell backward returns the resurrected entity to dust and likewise requires the expenditure of 3 magic points and 1D10 Sanity points. The dust can be retained or thrown away. For the spell to take effect the caster must succeed in an opposed POW roll with the target. If the caster wins, the victim returns to dust. If the victim wins, it may try to prevent the caster from reciting the spell again. Reciting the spell backward takes two rounds. In The Case of Charles Dexter Ward, many of those resurrected were interrogated and tortured to reveal secrets of the past.
 
+## Ye Terrible Cloud
+
+* Cost: 2 magic points
+* Casting time: Instantaneous
+
+The spell causes a dense mist to appear in an egg-shaped volume (10 × 10 × 15 feet), directly in front of the caster. The long axis of the cloud is always at right angles to the direction in which the caster faces. The spell obscures vision for 1D6+4 game rounds and then evaporates without trace.
+
+
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbMTY1ODE1MjAxNSwtMTcwNTY2OTUwOCw0
-Njk5ODE4NzUsNjg5NzYwOTU0LDMwNTcyNjUyOCwtMTcyNDkwMT
-MyMiwtMjI0MjExMjU4LC0xMDg4MjY3OTI1LC04MjQ3OTMxNywx
-Nzk2MjE0OTMyLC0xOTA3NzczNTAyLC0xODkxMTQ5MTU2LC00Nz
-E3MzA3ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OTcy
-OSwtMTY2NjgxOTA0NF19
+4iLCJoaXN0b3J5IjpbMTExNTk2OTIxMywxNjU4MTUyMDE1LC0x
+NzA1NjY5NTA4LDQ2OTk4MTg3NSw2ODk3NjA5NTQsMzA1NzI2NT
+I4LC0xNzI0OTAxMzIyLC0yMjQyMTEyNTgsLTEwODgyNjc5MjUs
+LTgyNDc5MzE3LDE3OTYyMTQ5MzIsLTE5MDc3NzM1MDIsLTE4OT
+ExNDkxNTYsLTQ3MTczMDc4NywtOTY4MDQyNDY3LDgzNDA0Mjky
+MSwxMDU2NTY5NzI5LC0xNjY2ODE5MDQ0XX0=
 -->
