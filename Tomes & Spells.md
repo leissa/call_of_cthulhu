@@ -298,8 +298,8 @@ A long ritual whereby the caster chants or performs some other ritualized repeti
 
 ## Restore Life
 
-* Cost: 3 magic points; 1D10 Sanity points
-* Casting time: 1 or 2 rounds
+* **Cost:** 3 magic points; 1D10 Sanity points
+* **Casting time:** 1 or 2 rounds
 
 The spell reduces a corpse to its essential salts and compounds, a bluish-grey powder, or reverses the process to yield ultimately the form and soul of the deceased. A complete corpse is necessary.
 
@@ -327,11 +327,11 @@ The spell causes a dense mist to appear in an egg-shaped volume (10 × 10 × 15 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRvbWVzICYgU3BlbGxzXG
-4iLCJoaXN0b3J5IjpbLTE3NzQ4OTA4NCwxMTE1OTY5MjEzLDE2
-NTgxNTIwMTUsLTE3MDU2Njk1MDgsNDY5OTgxODc1LDY4OTc2MD
-k1NCwzMDU3MjY1MjgsLTE3MjQ5MDEzMjIsLTIyNDIxMTI1OCwt
-MTA4ODI2NzkyNSwtODI0NzkzMTcsMTc5NjIxNDkzMiwtMTkwNz
-c3MzUwMiwtMTg5MTE0OTE1NiwtNDcxNzMwNzg3LC05NjgwNDI0
-NjcsODM0MDQyOTIxLDEwNTY1Njk3MjksLTE2NjY4MTkwNDRdfQ
-==
+4iLCJoaXN0b3J5IjpbMTUxNjk2ODgzNiwtMTc3NDg5MDg0LDEx
+MTU5NjkyMTMsMTY1ODE1MjAxNSwtMTcwNTY2OTUwOCw0Njk5OD
+E4NzUsNjg5NzYwOTU0LDMwNTcyNjUyOCwtMTcyNDkwMTMyMiwt
+MjI0MjExMjU4LC0xMDg4MjY3OTI1LC04MjQ3OTMxNywxNzk2Mj
+E0OTMyLC0xOTA3NzczNTAyLC0xODkxMTQ5MTU2LC00NzE3MzA3
+ODcsLTk2ODA0MjQ2Nyw4MzQwNDI5MjEsMTA1NjU2OTcyOSwtMT
+Y2NjgxOTA0NF19
 -->
